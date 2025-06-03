@@ -14,3 +14,13 @@ KPI's (Key Point Indicators)
   Understand the overall sales performance of Adidad over time
 #### 2. Profitability Analysis:
   Evaluate the total units sold to gain insights into product demand
+#### 3. Sales Volume Analysis:
+  Examine the total units sold to gain insights into product demand
+#### 4. Pricing Strategy:
+  Determine the average price per unit to assesss the pricing strategy
+#### 5. Margin Analysis:
+  Evaluate the average margin to understand the overall profitability of sales
+
+Charts Requirements
+#### 1. Total Sales by Month (Area Chart):
+  Visualize the monthly distribution of total sales to identify peak periods
