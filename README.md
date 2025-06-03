@@ -1,1 +1,3 @@
-# Adidas_sale_analysis_powerbi
+# Adidas Sale Analysis PowerBi
+## Business Requirements
+Through this Power BI-driven analysis
